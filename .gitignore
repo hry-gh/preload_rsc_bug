@@ -1,0 +1,9 @@
+*.zip
+*.rsc
+
+*.dmb
+*.int
+*.lk
+*.log
+
+icons/
